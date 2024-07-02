@@ -1,6 +1,6 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 <h1 align="center">Hi 👋, I'm Shah Arefin Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate web developer from Bangladesh</h3>
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=cheesits456&style=flat-square"></h2>
 Hi! I'm Shah Arefin Ahmed, a passionate Front-End Developer with a strong background in creating interactive and responsive web applications. My expertise includes HTML, CSS, Tailwind, JavaScript, DaisyUI, and React, allowing me to build modern and efficient front-end solutions. I also have experience with backend technologies like Firebase, Node.js, Express.js, and MongoDB, giving me a well-rounded skill set for full-stack development.
 
