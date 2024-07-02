@@ -34,7 +34,7 @@ I am always open to new opportunities and collaborations. Whether you have a pro
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin016&show_icons=true&count_private=true)  
 
-<h3 align="center">Skills</h3>
+<h2 align="left">Skills</h2>
 <hr>
 
 ### Front-end Development
