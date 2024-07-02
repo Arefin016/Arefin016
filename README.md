@@ -26,7 +26,7 @@ I am always open to new opportunities and collaborations. Whether you have a pro
 <p align="left">
 <a href="https://twitter.com/@shaharefinahme2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shaharefinahme2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/in/shah-arefin-ahmed-b23b99219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/shah-arefin-ahmed-b23b99219" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/arefin.ahmed.3956/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arefin.ahmed.3956/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/arefin.ahmed.3956/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arefin.ahmed.3956/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
