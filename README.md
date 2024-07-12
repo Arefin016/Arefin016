@@ -16,7 +16,7 @@ I am always open to new opportunities and collaborations. Whether you have a pro
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Html,Css,JavaScript & React,**
 
 - 📫 How to reach me **shaharefinahmed@gmail.com**
 
