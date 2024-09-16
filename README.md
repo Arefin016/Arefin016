@@ -14,7 +14,7 @@ I am always open to new opportunities and collaborations. Whether you have a pro
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin016&label=Profile%20views&color=0e75b6&style=flat" alt="arefin016" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **TypeScript & NextJs**
 
 - 💬 Ask me about **Html,Css,JavaScript & React,**
 
