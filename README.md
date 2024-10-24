@@ -10,7 +10,7 @@ On my GitHub, you’ll find various projects that showcase my skills and interes
 
 I am always open to new opportunities and collaborations. Whether you have a project in mind or just want to chat about web development, feel free to connect with me. Let's create something amazing together!
 
-<img align="right" alt="Coding" width="400" src="https://i.ibb.co.com/gSpj9Jh/code.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arefin016&label=Profile%20views&color=0e75b6&style=flat" alt="arefin016" /> </p>
