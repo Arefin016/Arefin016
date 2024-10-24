@@ -34,7 +34,7 @@ I am always open to new opportunities and collaborations. Whether you have a pro
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arefin016)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin016theme=moltack&show_icons=true)
+![imskr's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arefin016&show_icons=true&count_private=true)
 
 <h2 align="left">:zap:Skills</h2>
 <hr>
